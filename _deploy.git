@@ -1,0 +1,8 @@
+cd ../jdb
+#rm -rf *
+cp ../jwb/_book/* .
+git add .
+git commit -m "Content Update"
+git push github master
+# username on github: dyrehaugen
+# pwd: S-7
