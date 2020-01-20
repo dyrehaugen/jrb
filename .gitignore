@@ -1,3 +1,5 @@
+# JMH changed from _book to docs to simplify publishing on github
+docs
 .Rproj.user
 .Rhistory
 .RData

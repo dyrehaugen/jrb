@@ -1,7 +1,10 @@
 book_filename: "jbook"
 chapter_name: "Chapter "
-repo: https://github.com/dyrehaugen/jb
+repo: https://github.com/dyrehaugen/jrb
 output_dir: docs
 language:
 ui:
+rmd_files:
+clean: [packages.bib, bookdown.bbl]
 delete_merged_file: true
+new_session: yes

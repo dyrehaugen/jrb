@@ -5,8 +5,8 @@ bookdown::gitbook:
       before: |
         <li><a href="./">The One and Only Book</a></li>
       after: |
-        <li><a href="https://github.com/dyrehaugen/jdb" target="blank">Dyrehaugen on Github</a></li>
-    edit: https://github.com/dyrehaugen/jwb/edit/master/%s
+        <li><a href="https://dyrehaugen.github.io/jrb" target="blank">This book on Github</a></li>
+    edit: https://github.com/dyrehaugen/jrb/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
