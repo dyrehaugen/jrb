@@ -1,5 +1,7 @@
-book_filename: "jdb"
+book_filename: "jbook"
+chapter_name: "Chapter "
+repo: https://github.com/dyrehaugen/jb
+output_dir: docs
 language:
-  ui:
-    chapter_name: "Chapter "
+ui:
 delete_merged_file: true
